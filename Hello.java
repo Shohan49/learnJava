@@ -1,7 +1,16 @@
 public class Hello {
 
     public static void main(String args []) {
-        System.out.println(3 + 7);
+
+        int num1 = 5;
+        int num2 = 9;
+        double num3 = 10;
+        double result = num1 * num2;
+        System.out.println(num1 + num2);
+        System.out.println(num2 - num1);
+        System.out.println(result);
+        System.out.println(result / num3);
+        
 
     }
 }
