@@ -2,7 +2,7 @@ public class Hello {
 
     public static void main(String args []) {
 
-        /*
+        
 
         int num1 = 5;
         int num2 = 9;
@@ -13,7 +13,7 @@ public class Hello {
         System.out.println(result);
         System.out.println(result / num3); 
 
-        */
+        
 
         // byte b = 125;
         int a = 12;
