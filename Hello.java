@@ -11,12 +11,12 @@ public class Hello {
         System.out.println(num1 + num2);
         System.out.println(num2 - num1);
         System.out.println(result);
-        System.out.println(result / num3); 
+        System.out.println(result / num3);
 
         
 
         // byte b = 125;
-        int a = 15;
+        int a = 35;
         byte k = (byte) a;
 
         System.out.println(k);
