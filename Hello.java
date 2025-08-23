@@ -6,7 +6,7 @@ public class Hello {
 
         int num1 = 5;
         int num2 = 9;
-        double num3 = 10;
+        double num3 = 101;
         double result = num1 * num2;
         System.out.println(num1 + num2);
         System.out.println(num2 - num1);
@@ -16,7 +16,7 @@ public class Hello {
         
 
         // byte b = 125;
-        int a = 12;
+        int a = 15;
         byte k = (byte) a;
 
         System.out.println(k);
