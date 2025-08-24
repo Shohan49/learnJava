@@ -29,11 +29,16 @@ public class Hello {
         System.out.println(f); data Type convert*/
        
 
-        byte x = 100;
+ /*         byte x = 100;
         byte y = 12;
         int result = x * y;
+        System.out.println(result); */
+
+        int num = 16;
+        int result = num++; // Post increment
+        int result2 = ++num; // Pre - increment
+        System.out.println(result2);
         System.out.println(result);
-       
 
 
         
